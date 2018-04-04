@@ -1,5 +1,7 @@
 # sih18_JobsAndAdmissionPred
 
+Extract screenshots folder to see the images of working project.<br>
+Extract all the files in a directory, set up a php server(wamp or xamp preferably) and create a MySQL database as instruced in the code to run the project in your local server<br><br>
 This repository contain the codes and data created during Smart India Hackathon '18 for admission and jobs prediction based on demographic location. Smart India Hackathon is organised by MHRD and AICTE.<br><br>
 Our problem statement:<br>PREDICTION OF ADMISSION & JOBS IN ENGINEERING AND TECHNOLOGY/MANAGEMENT/PHARMACY WITH RESPECT TO DEMOGRAPHIC LOCATIONS<br><br>
 For demonstration purpose and prototyping, we chose some target areas and used limited number of parameters. We did case study of those areas and got the expected outputs. These results can later be generalised to a very large area,even to the scale of countries, provided we get the required data. The data used in the creating this project is synthetic which was made after a complete experimentation and research of the area. The credibility of data lies in the fact that all the values and parameters chosen are taken from valid sources which includes annual report of colleges and companies, cagr of companies etc. The working of this project depends upon the quality and availibility of data.<br><br>
